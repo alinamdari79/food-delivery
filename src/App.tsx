@@ -3,10 +3,12 @@
 // import viteLogo from '/vite.svg'
 // import './App.css'
 
+import MainPage from "./page/main-page/main-page";
+
 function App() {
   return (
     <>
-      <div className="flex justify-center font-semibold">aaaaaa</div>
+      <MainPage />
     </>
   );
 }
