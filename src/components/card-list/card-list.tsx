@@ -3,7 +3,7 @@ import Card from "../card/card";
 
 const CardList = () => (
   // const { monsters } = this.props;
-  <div className="grid grid-cols-4 gap-5 mt-5 mx-5">
+  <div className="grid grid-cols-3 gap-5 my-5 mx-12">
     {FoodData.map((food) => {
       return <Card food={food} />;
     })}
