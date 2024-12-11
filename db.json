@@ -4,69 +4,69 @@
     "name": "پیتزا سبزیجات دو نفره",
     "explanation": "قارچ و زیتون و گوجه فرنگی و اسفناج و پنیر پیتزا",
     "prize": "۲۴۰۰۰۰ تومان",
-    "img": ""
+    "image": "src/assets/bg-image/bg1.jpg"
   },
   {
     "id": 2,
     "name": "پیتزا مخصوص دو نفره",
     "explanation": "ژامبون و پپرونی و قارچ و پنیر پیتزا",
     "prize": "۳۳۰۰۰۰ تومان",
-    "img": ""
+    "image": "src/assets/bg-image/bg2.jpg"
   },
   {
     "id": 3,
     "name": "پیتزا پپرونی دو نفره",
     "explanation": "پپرونی و هالوپینو و پنیر پیتزا",
     "prize": "۳۰۰۰۰۰ تومان",
-    "img": ""
+    "image": "src/assets/bg-image/bg3.jpg"
   },
   {
     "id": 4,
     "name": "چلو کباب لقمه",
     "explanation": "غذای اصیل ایرانی",
     "prize": "۲۲۰۰۰۰ تومان",
-    "img": ""
+    "image": "src/assets/bg-image/bg4.jpg"
   },
   {
     "id": 5,
     "name": "چلو جوجه",
     "explanation": "غذای اصیل ایرانی",
     "prize": "۲۱۰۰۰۰ تومان",
-    "img": ""
+    "image": "src/assets/bg-image/bg5.jpg"
   },
   {
     "id": 6,
     "name": "ماشروم برگر",
     "explanation": "سس تارتا و کاهو و سیب زمینی و ادویه و گوجه و پنیر گودا و قارچ",
     "prize": "۲۱۵۰۰۰ تومان",
-    "img": ""
+    "image": "src/assets/bg-image/bg6.jpg"
   },
   {
     "id": 7,
     "name": "چیز برگر",
     "explanation": "سس تارتا و کاهو و سیب زمینی و ادویه و گوجه و پنیر گودا",
     "prize": "۱۹۸۰۰۰ تومان",
-    "img": ""
+    "image": "src/assets/bg-image/bg7.jpg"
   },
   {
     "id": 8,
     "name": "برگر کلاسیک",
     "explanation": "سس تارتا و ادویه مخصوص و گوجه و کاهو و سیب زمینی و سس قرمز",
     "prize": "۱۸۸۰۰۰ تومان",
-    "img": ""
+    "image": "src/assets/bg-image/bg8.jpg"
   },
   {
     "id": 9,
     "name": "لیموناد",
     "explanation": "خوش طعم",
     "prize": "۳۰۰۰۰ تومان",
-    "img": ""
+    "image": "src/assets/bg-image/bg9.jpg"
   },
   {
     "id": 10,
     "name": "زمزم کوکا",
     "explanation": "خوش طعم",
     "prize": "۳۰۰۰۰ تومان",
-    "img": ""
+    "image": "src/assets/bg-image/bg10.jpg"
   }
 ]

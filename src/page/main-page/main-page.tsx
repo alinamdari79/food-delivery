@@ -8,6 +8,7 @@ const MainPage = () => {
   return (
     <>
       <Header />
+      <div className="mt-4 mr-12 font-bold text-xl">منو</div>
       <CardList />
       <Footer />
     </>
